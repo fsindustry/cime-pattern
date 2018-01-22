@@ -2,3 +2,5 @@
 /.idea/
 /cime-pattern.iml
 .gitignore
+/proxy-pattern/proxy-pattern.iml
+/proxy-pattern/target/
